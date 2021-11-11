@@ -15,6 +15,7 @@ Currently **OxfordCCAI** focuses on three main research and development themes:
 
 Currently, we are actively recruiting families and children to join in our latest research study about children's perception of data-based algorithmics on YouTube systems. Join us to find out more! Please contact oxfordccai@cs.ox.ac.uk for more information.
 
+![Join us](oxccai-study-2021.jpeg)
 
 
 ### Publications
