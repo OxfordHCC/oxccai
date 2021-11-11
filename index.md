@@ -15,7 +15,7 @@ Currently **OxfordCCAI** focuses on three main research and development themes:
 
 Currently, we are actively recruiting families and children to join in our latest research study about children's data on YouTube. Join us to find out more! Please contact oxfordccai@cs.ox.ac.uk for more information.
 
-![Join us](oxccai-study-2021.jpeg=250x)
+![Join us](oxccai-study-2021.jpeg =250x)
 
 
 ### Recent Publications
