@@ -63,9 +63,9 @@ We identified that AI is widely used in _personalised tutor-ing/intervention, me
 
 ### News
 
-To support this year's Safer Internet Day, we prepared twi short videos to discuss less known online risks to children
-- [6-min version](https://youtu.be/WeQAb_LC7DE)
-- [4-min version](https://t.co/3TFtXrbovK)
+To support this year's Safer Internet Day, we prepared a 4-min short video to discuss less known online risks to children
+
+[![Safer Internt Day 2022](img/SID2022.png)](img/SID2022.mp4)
 
 To learn more about the science behind our advice, we pulled together a list below:
 
